@@ -26,7 +26,7 @@
 
 </div>
 <div class="mb-3 text-center">
-  <button type="button" class="btn btn-outline-info">Info</button>
+  <button type="button" class="btn btn-outline-info">Добавить</button>
 </div>
     </form>
   </div>
