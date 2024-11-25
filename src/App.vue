@@ -49,6 +49,9 @@
     </div>
   </div>
 </div>
+<div class="col">
+  <h3 class="text-end">Общая сумма $6837</h3>
+</div>
  </div>
 
  
